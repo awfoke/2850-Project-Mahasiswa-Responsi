@@ -1,0 +1,6 @@
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
